@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: linq, Configuration: Debug Any CPU ------
+1>  linq -> d:\Users\Admin\source\repos\linq\linq\bin\Debug\linq.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

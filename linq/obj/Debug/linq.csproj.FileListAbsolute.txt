@@ -1,0 +1,7 @@
+d:\Users\Admin\source\repos\linq\linq\obj\Debug\linq.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\linq\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+d:\Users\Admin\source\repos\linq\linq\bin\Debug\linq.exe.config
+d:\Users\Admin\source\repos\linq\linq\bin\Debug\linq.exe
+d:\Users\Admin\source\repos\linq\linq\bin\Debug\linq.pdb
+d:\Users\Admin\source\repos\linq\linq\obj\Debug\linq.exe
+d:\Users\Admin\source\repos\linq\linq\obj\Debug\linq.pdb
